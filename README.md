@@ -1,0 +1,2 @@
+# angularjs-practices
+AngularJS practices
